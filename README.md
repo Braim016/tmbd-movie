@@ -6,10 +6,6 @@ The data set has two columns for budget and revenue. The second columns for each
 
 The data set also has three columns with delimiters "|" that seperates various values.
 
-Further description of the dataset and the questions I'll be answering are immediately after the first 5 code cell
-
-I'll start the analyses by upgrading pandas then importing the required packages then reading the csv and checking out the overview of the data.
-
 ## Required Modules
 * numpy
 * pandas
